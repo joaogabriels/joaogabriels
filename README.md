@@ -1,7 +1,7 @@
 ## Olá!! Meu nome é João Gabriel. 
 - 📚 Atualmente curso Sistemas de informação na PUC Minas! 
 - 👨‍💻 Estudo front-end todos os dias, principalmente React e suas funcionalidades, mas em um futuro próximo pretendo me tornar um Dev full stack. 
-- 🔨 Trainee dev at GPMP
+- 🔨 Jr dev at GPMP
 - 📫 Contate-me no email: joaogabrielsevangelista@gmail.com
 
 ##
